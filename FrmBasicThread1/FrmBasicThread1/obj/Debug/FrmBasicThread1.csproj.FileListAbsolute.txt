@@ -1,0 +1,11 @@
+C:\Users\staana.261753\Source\Repos\drizzydrei\FrmBasicThread1\FrmBasicThread1\bin\Debug\FrmBasicThread1.exe.config
+C:\Users\staana.261753\Source\Repos\drizzydrei\FrmBasicThread1\FrmBasicThread1\bin\Debug\FrmBasicThread1.exe
+C:\Users\staana.261753\Source\Repos\drizzydrei\FrmBasicThread1\FrmBasicThread1\bin\Debug\FrmBasicThread1.pdb
+C:\Users\staana.261753\Source\Repos\drizzydrei\FrmBasicThread1\FrmBasicThread1\obj\Debug\FrmBasicThread1.csproj.AssemblyReference.cache
+C:\Users\staana.261753\Source\Repos\drizzydrei\FrmBasicThread1\FrmBasicThread1\obj\Debug\FrmBasicThread1.csproj.SuggestedBindingRedirects.cache
+C:\Users\staana.261753\Source\Repos\drizzydrei\FrmBasicThread1\FrmBasicThread1\obj\Debug\FrmBasicThread1.Form1.resources
+C:\Users\staana.261753\Source\Repos\drizzydrei\FrmBasicThread1\FrmBasicThread1\obj\Debug\FrmBasicThread1.Properties.Resources.resources
+C:\Users\staana.261753\Source\Repos\drizzydrei\FrmBasicThread1\FrmBasicThread1\obj\Debug\FrmBasicThread1.csproj.GenerateResource.cache
+C:\Users\staana.261753\Source\Repos\drizzydrei\FrmBasicThread1\FrmBasicThread1\obj\Debug\FrmBasicThread1.csproj.CoreCompileInputs.cache
+C:\Users\staana.261753\Source\Repos\drizzydrei\FrmBasicThread1\FrmBasicThread1\obj\Debug\FrmBasicThread1.exe
+C:\Users\staana.261753\Source\Repos\drizzydrei\FrmBasicThread1\FrmBasicThread1\obj\Debug\FrmBasicThread1.pdb
